@@ -1,13 +1,14 @@
+***
 ## 🚀 About Me
 Hello 👋, I am Pranjay Pathak, a passionate Frontend Engineer from India, who creates stuff on the web and sometimes enjoys it too.
-- 🌐 Website >> [www.pranjay.tech](https://www.pranjay.tech/)
+- 🌐 website >> [www.pranjay.tech](https://www.pranjay.tech/)
 - 👨🏼‍💻 building [Codeiva: Realtime Editor](https://github.com/PranjayPathak/realtime-editor)
 - 🧠 learning NextJs, TypeScript & Design Patterns
-- 💜 Spamming JavaScript, React, Vue and Sassy CSS
-- 📃 Get my [Resume](https://drive.google.com/file/d/1oE9b_tv6jfOxPS_RBLbtkCSLSNYUQFaU/edit)
-- 💬Ask me about anything, I am happy to help
+- 💜 spamming JavaScript, React, Vue and Sassy CSS
+- 📃 get my [Resume](https://drive.google.com/file/d/1oE9b_tv6jfOxPS_RBLbtkCSLSNYUQFaU/edit)
+- 💬 ask me about anything, I am happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranjaypathak/) or  pranjaypathak411@gmail.com
-- 🎥 Fun Fact: I 💜 thriller & mind boggling movies - [Annihilation](https://en.wikipedia.org/wiki/Annihilation_(film))
+- 🎥 fun fact: I 💜 thriller & mind boggling movies - [Annihilation](https://en.wikipedia.org/wiki/Annihilation_(film))
 
 ## 📱 Socials
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pranjaypathak411@gmail.com)](mailto:pranjaypathak411@gmail.com)
@@ -20,3 +21,4 @@ Hello 👋, I am Pranjay Pathak, a passionate Frontend Engineer from India, who 
 ## 🔥 Thanks for visiting
 
 Currently, I am looking for a awesome team and workplace. So do have a look at my [projects](https://www.pranjay.tech/) or just connect with me on [LinkedIn](https://www.linkedin.com/in/pranjaypathak/). I am always excited to do business with like mind people.
+***

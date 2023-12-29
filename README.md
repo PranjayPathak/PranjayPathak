@@ -20,5 +20,5 @@ Hello 👋, I am Pranjay Pathak, a passionate Frontend Engineer from India, who 
  
 ## 🔥 Thanks for visiting
 
-Currently, I am looking for a awesome team and workplace. So do have a look at my [projects](https://www.pranjay.tech/) or just connect with me on [LinkedIn](https://www.linkedin.com/in/pranjaypathak/). I am always excited to do business with like mind people.
+~Currently, I am looking for a awesome team and workplace. So~ do have a look at my [projects](https://www.pranjay.tech/) or just connect with me on [LinkedIn](https://www.linkedin.com/in/pranjaypathak/). I am always excited to do business with like mind people.
 ***

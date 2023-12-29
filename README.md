@@ -1,11 +1,11 @@
 ***
 ## 🚀 About Me
 Hello 👋, I am Pranjay Pathak, a passionate Frontend Engineer from India, who creates stuff on the web and sometimes enjoys it too.
-- 🌐 website >> [www.pranjay.tech](https://www.pranjay.tech/)
+- 🌐 website >> [pranjaydevsite.vercel.app](https://pranjaydevsite.vercel.app/)
 - 👨🏼‍💻 building [Codeiva: Realtime Editor](https://github.com/PranjayPathak/realtime-editor)
 - 🧠 learning NextJs, TypeScript & Design Patterns
 - 💜 spamming JavaScript, React, Vue and Sassy CSS
-- 📃 get my [Resume](https://drive.google.com/file/d/1oE9b_tv6jfOxPS_RBLbtkCSLSNYUQFaU/edit)
+- 📃 get my [Resume](https://drive.google.com/file/d/1fkrnKoIeDgyqZsgry95mRASXFltxf1Hm/view)
 - 💬 ask me about anything, I am happy to help
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranjaypathak/) or  pranjaypathak411@gmail.com
 - 🎥 fun fact: I 💜 thriller & mind boggling movies - [Annihilation](https://en.wikipedia.org/wiki/Annihilation_(film))
